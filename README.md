@@ -1,6 +1,6 @@
 # Leekos' Munitions Merge
 
-**A compatibility patch for [HAVOC's Ammo Maker Overhaul](#) and [Arti's Special Ammo](#) for the S.T.A.L.K.E.R. Anomaly GAMMA modpack.**  
+**A compatibility patch for [HAVOC's Ammo Maker Overhaul](https://discord.com/channels/912320241713958912/1334716460618223699) and [Arti's Special Ammo](https://github.com/ilrathCXV/ArtiGrok-Ballistics-GAMMA-ilrath-Mo3) for the S.T.A.L.K.E.R. Anomaly GAMMA modpack.**  
 Now with support for all of Arti’s ammo types and Pilli’s Honey Badger .300 framework.
 
 ---
@@ -47,9 +47,9 @@ Have a better idea for balance or material requirements?
 
 ## 🙏 Credits
 
-- **HAVOC** – [Ammo Maker Overhaul](#)  
-- **ilrathCXV** – [Arti’s Special Ammo (ArtiBalls)](#)  
-- **Pilli** – Honey Badger .300 ammo framework
+- **HAVOC** 
+- **ilrathCXV** 
+- **Pilli**
 
 Special thanks to the Zone modding community for keeping us all well-armed.
 
@@ -58,6 +58,9 @@ Special thanks to the Zone modding community for keeping us all well-armed.
 ## 📁 Installation
 
 Install with a mod manager like MO2, making sure this patch loads **after** both Ammo Maker Overhaul and Arti's Ammo.
+
+VERY IMPORTANT from Havoc overhaul delete this folder:
+\havoc_ammomaker_overhaul_v.1.5 \gamedata\configs\items\ammo
 
 Alternatively, drag and drop into `gamedata/`.
 
