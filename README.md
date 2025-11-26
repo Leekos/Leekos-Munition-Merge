@@ -57,10 +57,9 @@ Special thanks to the Zone modding community for keeping us all well-armed.
 
 ## 📁 Installation
 
-Install with a mod manager like MO2, making sure this patch loads **after** both Ammo Maker Overhaul and Arti's Ammo.
+Install with a mod manager like MO2, making sure this patch loads **after**  Arti's Ammo.
 
-VERY IMPORTANT from Havoc overhaul delete this folder:
-\havoc_ammomaker_overhaul_v.1.5 \gamedata\configs\items\ammo
+
 
 Alternatively, drag and drop into `gamedata/`.
 
