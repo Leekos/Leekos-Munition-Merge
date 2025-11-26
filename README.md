@@ -10,7 +10,7 @@ Now with support for all of Arti’s ammo types and Pilli’s Honey Badger .300 
 This mod merges and harmonizes the features of two major ammo mods for GAMMA:
 
 - ✅ Full support for **Arti’s Special Ammo + Ammo Rebalance**  
-- ✅ Compatibility with **HAVOC’s Ammo Maker Overhaul**
+- ✅ **HAVOC’s Ammo Maker Overhaul** built into LMM
 - ✅ Integrated support for **Pilli’s Honey Badger .300 Ammo Framework**
 - ✅ Consistent progression and balance tuning
 - ✅ Updated crafting costs and requirements
